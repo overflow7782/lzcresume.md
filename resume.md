@@ -18,12 +18,11 @@ $sub-info{>> 最后更新:(-2026-07-07-) >> 在线版: [your-domain.com](https:/
 
 ## 技术能力
 
-**开发语言**: $split-tag{Java, C#, JavaScript, TypeScript, SQL}  
-**后端技术**: $split-tag{Spring Boot, .NET, ASP.NET Core, Node.js, RESTful API}  
-**前端技术**: $split-tag{Vue, React, Element UI, Ant Design, HTML, CSS}  
+**后端技术**: $split-tag{.NET, ASP.NET Core, RESTful API}  
+**前端技术**: $split-tag{Vue, React, HTML, CSS}  
 **数据库**: $split-tag{MySQL, SQL Server, Redis, 达梦数据库}  
 **工程工具**: $split-tag{Git, Docker, Nginx, Linux, Jenkins}  
-**其他能力**: $split-tag{SQL优化, 接口设计, 系统重构, 性能排查, RAG / AI应用}
+**其他能力**: $split-tag{数据库优化,性能排查, RAG / AI应用}
 
 ## 工作经历
 
